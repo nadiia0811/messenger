@@ -2,7 +2,7 @@
   "name": "chat",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://nadiia0811.github.io/messender",
+  "homepage": "https://nadiia0811.github.io/messenger",
   "type": "module",
   "scripts": {
     "dev": "vite",
